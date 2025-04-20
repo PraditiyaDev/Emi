@@ -1,0 +1,14 @@
+{
+  "name": "emix-telegram-bot",
+  "version": "1.0.0",
+  "description": "Telegram Bot Emix Store untuk transaksi web, perpanjang, dan rekap",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Emix Dev",
+  "license": "MIT",
+  "dependencies": {
+    "telegraf": "^4.12.2"
+  }
+}

@@ -1,0 +1,4 @@
+module.exports = {
+  TOKEN: '7810066920:AAHy_gHB9HU2yTCgcUNxOQ6oxNqLGEIog4Q',
+  ADMIN_ID: 8097806353
+};
